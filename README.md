@@ -33,7 +33,7 @@ To understand and explore the dataset using various visualization techniques, fi
 ## ▶️ Steps to Run
 
 1. Open [Google Colab](https://colab.research.google.com/).
-2. Upload the notebook (`EDA_Titanic.ipynb`) and your dataset (`titanic.csv`).
+2. Upload the notebook (`task5(DA intern).ipynb`) and your dataset (`titanic.csv`).
 3. Run each cell in order:
     - Upload file using:
       ```python
@@ -64,8 +64,3 @@ To understand and explore the dataset using various visualization techniques, fi
 - Use `.select_dtypes()` to filter only numeric columns for correlation matrix to avoid errors.
 
 ---
-
-## 📬 Contact
-
-For any queries, please reach out to the internship coordinator or open an issue on this repository.
-
